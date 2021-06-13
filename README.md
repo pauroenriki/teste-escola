@@ -1,5 +1,5 @@
 # teste-escola
-conteúdo na brach master
+O conteúdo da API está na brach master
 Documentação swagger : http://localhost:8080/swagger-ui.html#/
 
 ALUNO:
