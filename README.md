@@ -1,13 +1,15 @@
 # teste-escola
-O conteúdo da API está na brach master.
-Vide arquivo application.properties.
-Banco de dados: Mysql.
-Nome do Banco de dados para a API: dbescola.
+O Código da API está na branch master.
+
+Banco de dados: MySql.
+
+Nome do banco de dados para a API: dbescola.
+
+Usuário do Banco de dados: root.
+
+Senha em branco.
 
 
-Documentação swagger : http://localhost:8080/swagger-ui.html#/
-
-ALUNO:
 
 GET: 
 
@@ -57,3 +59,7 @@ http://localhost:8080/teste-escola/api/v1/turma/remover-aluno/{id} -> Remove um 
 DELETE:
 
 http://localhost:8080/teste-escola/api/v1/turma/{id} -> Efetua delete lógico de uma turma (enviar json da turma).
+
+
+
+
