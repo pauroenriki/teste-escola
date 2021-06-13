@@ -1,5 +1,10 @@
 # teste-escola
-O conteúdo da API está na brach master
+O conteúdo da API está na brach master.
+Vide arquivo application.properties.
+Banco de dados: Mysql.
+Nome do Banco de dados para a API: dbescola.
+
+
 Documentação swagger : http://localhost:8080/swagger-ui.html#/
 
 ALUNO:
